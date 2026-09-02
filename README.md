@@ -21,6 +21,10 @@ My work combines hands-on AI engineering with more than a decade of executive bu
 
 ### Featured Automation Projects
 
+#### [n8n AI Automation Core Modules](https://github.com/Riles1975/n8n-ai-automation-core-modules)
+
+A portfolio collection of 10 reusable n8n workflows covering lead generation, qualification, outreach, follow-up, CRM automation, sales, content operations, and reporting.
+
 #### [AI Lead Generation & Outreach Engine](https://github.com/Riles1975/ai-lead-generation-outreach-engine)
 
 Automates prospect sourcing, enrichment, qualification, personalized outreach, CRM routing, and follow-up workflows.
