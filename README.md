@@ -29,6 +29,10 @@ A portfolio of 16 production-ready n8n systems covering AI, sales, CRM, operatio
 
 Enterprise request automation featuring Slack, Airtable, JavaScript routing, SLA prioritization, approval controls, Block Kit responses, and governance-ready audit output.
 
+#### [AI Customer Education Automation Engine](https://github.com/Riles1975/ai-customer-education-engine)
+
+Transforms product releases into quality-controlled educational content using LLM generation, automated validation, human approval, CMS publishing payloads, and lifecycle governance.
+
 #### [n8n AI Automation Core Modules](https://github.com/Riles1975/n8n-ai-automation-core-modules)
 
 A portfolio collection of 10 reusable n8n workflows covering lead generation, qualification, outreach, follow-up, CRM automation, sales, content operations, and reporting.
