@@ -1,6 +1,6 @@
 # Alex Maeser
 
-## AI Automation Engineer | AI Solutions Architect
+## AI Automation Engineer | AI Solutions Architect | Forward Deployed Engineer
 
 I design and build production-ready automation systems that eliminate repetitive work, connect business-critical applications, and improve operational efficiency and revenue generation.
 
